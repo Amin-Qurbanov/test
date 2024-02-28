@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    font-style: Montserrat;
+}
+h1{
+    font-size: 44px;
+}
+p{
+    font-size: 12px;
+}
+.main-text{
+ font-size: 16px;
+}
+/*
+Şrift — Montserrat,
+başlıq mətni — 44px,
+tarix mətni — 12px,
+əsas m0ətn — 16px.
+*/
